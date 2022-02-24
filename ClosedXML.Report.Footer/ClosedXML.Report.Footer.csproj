@@ -3,6 +3,11 @@
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Description>Repeat footer image on each page</Description>
+        <PackageProjectUrl>https://github.com/WorldException/ClosedXML.Report.Footer</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/WorldException/ClosedXML.Report.Footer/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/WorldException/ClosedXML.Report.Footer</RepositoryUrl>
+        <PackageTags>ClosedXML Report Footer</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>
